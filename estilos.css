@@ -3,34 +3,32 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-color: grey;
-}
-
-.header-content {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 0;
-  font-size: x-large;
-  line-height: 1;
+  background-color: slategray;
 }
 
 .profile-pic {
-  width: 100px;
-  height: 100px;
+  width: auto;
+  height: auto;
   border-radius: 50%;
   object-fit: cover;
-  border: 2px solid white;
-  margin-bottom: 5px;
-  gap: 1px;
+  border: 2px solid white;    
 }
 
 header {
   background-color: midnightblue;
   color: white;
   text-align: center;
-  padding: 10px 0;
+  font-size: medium;
+}
+
+header h1 {
+  margin: 0 0 0 0;
+}
+
+header p {
+  background-color: midnightblue;
+  margin-top: 0px;
+  margin-bottom: auto;
 }
 
 nav ul {
@@ -38,12 +36,12 @@ nav ul {
   display: flex;
   justify-content: center;
   list-style: none;
-  margin: 0;
-  padding: 0.5rem;
+  margin: auto;
+  padding: auto;
 }
 
 nav ul li {
-  margin: 0 1rem;
+  margin: 0 20px;
 }
 
 nav ul li a {
@@ -60,7 +58,7 @@ main {
 }
 
 section {
-  margin-bottom: 2rem;
+  margin-bottom: auto;
 }
 
 footer {
