@@ -15,6 +15,7 @@ En aprendizaje: React, Node.js, bases de datos
 
 Habilidades Blandas: Resolución de problemas, liderazgo, comunicación efectiva, trabajo en equipo
 
+
 🌟 Sobre Mí
 
 💼 Experiencia previa: Más de 6 años en gestión de equipos y optimización de procesos en el sector servicios, incluyendo roles como Jefe de Recepción en Apartamentos Turísticos Gran View Apartments.
@@ -22,6 +23,7 @@ Habilidades Blandas: Resolución de problemas, liderazgo, comunicación efectiva
 🎓 Formación: Bootcamp Programmatic Trader & Specialist (Skiller Academy), Curso de Marketing Automation (Santander Open Academy), y Técnico de Recepción y Atención al Cliente (Instituto Ágora).
 
 💡 Pasión: Automatización, tecnología y mejora continua. Me motiva aprender nuevas herramientas y contribuir a proyectos que impacten positivamente a los usuarios.
+
 
 🔗 Conecta Conmigo
 
@@ -35,6 +37,7 @@ Habilidades Blandas: Resolución de problemas, liderazgo, comunicación efectiva
 Portafolio Personal (En desarrollo): Un sitio web responsive creado con HTML, CSS y JavaScript para mostrar mis proyectos. Ver repositorio
 
 Próximamente: Más proyectos del Bootcamp de 4Geeks Academy, incluyendo aplicaciones web con React y APIs.
+
 
 🌱 ¿Qué Sigo Aprendiendo?
 
