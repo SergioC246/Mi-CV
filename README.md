@@ -12,7 +12,7 @@ Lenguajes y Herramientas: HTML, CSS, JavaScript, Git
 En aprendizaje: React, Node.js, bases de datos
 Habilidades Blandas: Resolución de problemas, liderazgo, comunicación efectiva, trabajo en equipo
 
-🌟 Sobre Míç
+🌟 Sobre Mí
 
 💼 Experiencia previa: Más de 6 años en gestión de equipos y optimización de procesos en el sector servicios, incluyendo roles como Jefe de Recepción en Apartamentos Turísticos Gran View Apartments.
 🎓 Formación: Bootcamp Programmatic Trader & Specialist (Skiller Academy), Curso de Marketing Automation (Santander Open Academy), y Técnico de Recepción y Atención al Cliente (Instituto Ágora).
@@ -21,7 +21,9 @@ Habilidades Blandas: Resolución de problemas, liderazgo, comunicación efectiva
 🔗 Conecta Conmigo
 
 💼 LinkedIn: www.linkedin.com/in/sergio-cordoba-199bba150
+
 📧 Email: sergiocordoba246@gmail.com
+
 
 🛠️ Proyectos Destacados
 
